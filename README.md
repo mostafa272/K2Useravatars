@@ -27,7 +27,10 @@ You can easily control and customize this module via module setting at admin pan
 
 - Download this module
 - Install this module via Admin Backend
-- Configure the setting of this module at Admin Backend                  
+- Configure the setting of this module at Admin Backend      
+
+## Demo                  
+https://github.com/mostafa272/K2Useravatars/wiki/Demo                                   
 
 ## Download
 https://www.codester.com/items/15239/k2-online-users-joomla-module                             
