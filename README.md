@@ -1,6 +1,6 @@
 K2 is a popular Joomla extension that provides many features and capabilities for Joomla users. Avatar image for users is one of these features.
 
-K2 Online Users is a simple Joomla module for displaying the avatars of online users. It uses K2 avatar of each user to show a list of online users. 
+K2 Online Users (K2 User Avatars) is a simple Joomla module for displaying the avatars of online users. It uses K2 avatar of each user to show a list of online users. 
 You can easily customize different options of this module.
 
 K2 Online Users provides the capability of excluding the given users. You can limit the number of displaying avatars and load more avatars by using AJAX technique.
